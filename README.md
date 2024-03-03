@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Master Microservices with Spring Boot and Spring Cloud ( https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/ )**
 
-- 💬 Ask me about **Java, ,Microservices, SpringBoot, Angular**
+- 💬 Ask me about **Java, Microservices, SpringBoot, Angular**
 
 - 📄 Know about my experiences [https://rishabhshairy.github.io/portfolio/](https://rishabhshairy.github.io/portfolio/)
 
