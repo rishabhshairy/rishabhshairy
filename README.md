@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Shairy</h1>
-<h3 align="center">A passionate Full Stack Developer with 5+ years of experience. Currently working as Software Engineer 2 in NetApp</h3>
+<h3 align="center">A passionate Full Stack Developer with 5+ years of experience. Currently working as Software Engineer 3 in NetApp</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhshairy&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhshairy" /> </p>
 
